@@ -1,0 +1,6 @@
+streamlit
+pyupbit
+plotly
+pandas
+ta
+streamlit-autorefresh
